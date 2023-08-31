@@ -1,0 +1,10 @@
+.nav-container{
+background-color: red;
+}
+
+
+.link-container{
+    /* display: ; */
+    justify-content: end;
+    display: flex;
+}
